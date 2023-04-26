@@ -37,7 +37,7 @@ def Calculator():
             end = 1
 
 print("""**********
-Calculadora
+Calculator
 **********
 Menu
 1) ADD
